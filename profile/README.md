@@ -1,14 +1,14 @@
-### 🦦 Project - CI/CD Pipeline devSecOps
+### 🦦 Project - CI/CD Pipeline DevSecOps
 
-contributing to the CICD Pipeline🔧 we rely on GitHub for build🧙‍♂️ols we used:
+contributing to the CICD Pipeline🔧 :
 
-- [GitHub ]
-- [Docker ]
-- [AWS ]
-- [SAST ]
-- [DAST ]
-- [Trivy ]
+- GitHub
+- Docker
+- AWS
+- SAST
+- DAST
+- Trivy
 
 - [Git A1](https://github.com/DITISS-AUG24-PROJECT/A1) - Project Documentation
-- [Git A2](https://github.com/DITISS-AUG24-PROJECT/A1) - Project Deployment
+- [Git A2](https://github.com/DITISS-AUG24-PROJECT/A2) - Project Deployment
 
